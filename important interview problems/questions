@@ -1,0 +1,30 @@
+-Bottom up traversal of a tree
+
+-Given list of files and folders, check if they are valid based on your directory structure for eg. /user/desktop/abc.txt - if this file is present then return yes else create a relevant directory 
+accordingly and create a new file abc.txt in that directory.
+
+-Maximum elements in window of size k - sliding window, deque solution expected
+
+-zig zag order traversal - one stack solution expected
+
+-social networking edge ranking algorithm - graph approach expected
+
+- Implement LRU Cache - all approaches
+
+- Coin Change DP - all Variations
+
+- Rabin Karp, KMP - Substring Search (Google, HT Media, Wingify asked this to me)
+
+- Phone Keypad DP Problem
+
+- Search Subtree in a tree
+
+- Kadane's Algo and its variations
+
+- Detect and Remove loop in a linkedlist (never give floyd's solution, always give hashmap approach)
+
+- Longest Repeating Character Replacement (Google asked this)
+
+- Maximum points on a line (Most favorite question)
+
+- Maths of Trees (Height, Balancing, Depth of a node) (If you love trees, then go in depth of maths of trees, two companies asked me to prove sum of GP equation)
